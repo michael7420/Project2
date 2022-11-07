@@ -12,7 +12,7 @@ h1{
 h2{
 	text-align:center;
 	text-decoration:underline;
-	position:
+	position:static;
 }
 h3{
 	text-align:center;
