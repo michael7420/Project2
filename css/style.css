@@ -61,7 +61,7 @@ h4{
 }
 img{
 	width:100%;
-	float:
+	float:inherit;
 }
 #musicfavs{
 	background-color:#191970;
