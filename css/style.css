@@ -12,6 +12,7 @@ h1{
 h2{
 	text-align:center;
 	text-decoration:underline;
+	position:
 }
 h3{
 	text-align:center;
@@ -20,6 +21,7 @@ h4{
 	text-align:center;
 	text-decoration:underline;
 	text-underline-offset:0.11em;
+	position:
 }
 #nav{
 	list-style-type:none;
@@ -59,6 +61,7 @@ h4{
 }
 img{
 	width:100%;
+	float:
 }
 #musicfavs{
 	background-color:#191970;
@@ -70,4 +73,5 @@ img{
 iframe{
 	width:100%;
 	border:none;
+	position:
 }
